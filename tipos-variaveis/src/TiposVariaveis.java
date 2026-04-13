@@ -1,5 +1,6 @@
 public class TiposVariaveis {
     public static void main(String [] args) throws Exception { 
-        System.out.print("Olá, mundo");
+        String cor = "Vermelho";
+        System.out.print("A cor é " + cor);
     }
 }
